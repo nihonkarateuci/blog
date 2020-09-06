@@ -1,0 +1,7 @@
+User-agent: *
+Crawl-delay: 125
+Disallow: https://blog.nihonkarateuci.com/images/
+Disallow: https://blog.nihonkarateuci.com/scripts/
+Disallow: https://blog.nihonkarateuci.com/styles/
+
+Sitemap: https://blog.nihonkarateuci.com/sitemap.xml
